@@ -1,0 +1,22 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/spring-boot-cache?serverTimezone=UTC&useUnicode=true&characterEncoding=utf-8&useSSL=false
+    username: root
+    password: 1234
+  redis:
+    host: master
+    password: Mjx1101_
+
+#开启驼峰命名
+mybatis:
+  configuration:
+    map-underscore-to-camel-case: true
+
+#logging:
+#  level: debug
+
+
+
+
+

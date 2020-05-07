@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-01-cache" />
+        <module name="spring-boot-04-task" />
+        <module name="spring-boot-05-security" />
+        <module name="spring-boot-06-sonsumer" />
+        <module name="spring-boot-06-ticket" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring-boot-01-cache" target="1.8" />
+      <module name="spring-boot-04-task" target="1.8" />
+      <module name="spring-boot-05-security" target="1.8" />
+      <module name="spring-boot-06-sonsumer" target="1.8" />
+      <module name="spring-boot-06-ticket" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

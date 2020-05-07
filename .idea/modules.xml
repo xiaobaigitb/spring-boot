@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-01-cache/spring-boot-01-cache.iml" filepath="$PROJECT_DIR$/spring-boot-01-cache/spring-boot-01-cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-04-task/spring-boot-04-task.iml" filepath="$PROJECT_DIR$/spring-boot-04-task/spring-boot-04-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-05-security/spring-boot-05-security.iml" filepath="$PROJECT_DIR$/spring-boot-05-security/spring-boot-05-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-06-sonsumer/spring-boot-06-sonsumer.iml" filepath="$PROJECT_DIR$/spring-boot-06-sonsumer/spring-boot-06-sonsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-06-ticket/spring-boot-06-ticket.iml" filepath="$PROJECT_DIR$/spring-boot-06-ticket/spring-boot-06-ticket.iml" />
+    </modules>
+  </component>
+</project>
